@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-console.log('starting app new')
-=======
+
+console.log('starting app new');
+
 // Sample node.js web app for Pluralsight Docker CI course
 // For demonstration purposes only
 'use strict';
